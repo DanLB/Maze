@@ -1,0 +1,19 @@
+Information on how to do this properly
+
+** Include ServiceLocator.h anywhere the sound is to be played **
+
+To Use:
+	ServiceLocator::GetAudio()->_______() //Function to whatever you want in soundprovider
+
+** Include SFMLSoundProvider.h and ServiceLocator.h to initialize the Service Locator
+
+To Initialize (in game)
+	SFMLSoundProvider soundProvider
+	ServiceLocator::RegisterServiceLocator(&soundProvider)
+
+	
+
+***IT IS VERY IMPORTANT THAT THERE BE NO SPACES, RETURNS, OR ANYTHING AFTER THE LAST LINE OF THE "room#.txt" FILES.
+IF THERE IS ANYTHING, STUFF will GET SCREWED UP.***
+
+**To goto different rooms, utilize control, alt, shift, and combinations to get to levels beyond 10
