@@ -1,0 +1,16 @@
+To Add New Game Objects (esp. ones that go into GameObjectManager)
+	
+	1.Add the object / class
+	2.Add #include file to Game.h
+	3.Add to Game::Calculate so that can be added to GameObjectManager
+
+
+
+ObjectList:
+	Wall (wallCorner)
+	Player
+	Door
+	Diamond
+	Goal
+	WallVertical
+	WallHorizontal

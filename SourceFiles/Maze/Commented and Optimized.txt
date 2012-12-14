@@ -1,0 +1,3 @@
+All Commented
+
+Player, HighScore, Game could possibly be optimized

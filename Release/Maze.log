@@ -1,0 +1,18 @@
+﻿Build started 8/6/2012 8:19:36 PM.
+     1>Project "C:\Users\Daniel\Programming\Works in Progress\Maze\Maze\Maze.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Maze.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Maze.vcxproj -> C:\Users\Daniel\Programming\Works in Progress\Maze\Maze\Release\Maze.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\Maze.unsuccessfulbuild".
+         Touching "Release\Maze.lastbuildstate".
+     1>Done Building Project "C:\Users\Daniel\Programming\Works in Progress\Maze\Maze\Maze.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.07
